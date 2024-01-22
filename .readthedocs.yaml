@@ -15,7 +15,7 @@ build:
 # Specifies the configuration of python environment to be used
 python:
   install:
-    - requirements: docs/doc_requirements.txt
+    - requirements: docs/requirements.txt
     - method: pip
     - path: .
 
